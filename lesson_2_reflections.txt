@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+When we intialize a repository we intimidate version control that this is the place
+which we use for file tracking and from now we will start commiting stuff here.
+This is the ground where we put / commit our work.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Working directory is the place where you are git metafile resides it can have several different files which has nothing to do with version control where as staging area is a git concept 
+where added files are places before being committed to git. 
+staging area offers you a place to bundle your commit and a last opportunity to confirm 
+what you are going to commit.
