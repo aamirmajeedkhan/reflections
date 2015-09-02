@@ -1,0 +1,37 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+This way you can atleast find out if you make any mistake from the previous version.
+Or perhaps if you compare with a stable version you can spot which change actually introduce problem.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+This way you an monitor progress and have a history of what have you been doing so far.
+Last but not least you have the opportunity to move back and forth based on need.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs 
+having versions automatically saved, like Google Docs does?
+Pros:
+The main idea is when you make a logical change commit is better to do and you and only you are the 
+best judge to that . 
+
+Cons :
+You might lost changes as you wait long enough of logical change similarly you might create a long 
+logical change .
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+It depends on your requirement for instance Git which in primarily focus on handling software development 
+where each program consist of many files it make sense to use repository or multiple files.
+Now something like Google Docs have entirely different objective where we usually intrested in
+mantaining a document.
+
+How can you use the commands git log and git diff to view the history of files?
+from git log I can find a bird eye view of what happened and they with git diff can compare between commit.	
+
+How might using version control make you more confident to make changes that could break something?
+Using version control you always have the option to move to the stabele commit .This liberate developer
+to make changes without fear of making mistake.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to use particularly if I am making any changes in the code.
+camilla 02077330430
